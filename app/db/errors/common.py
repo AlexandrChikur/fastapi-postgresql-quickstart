@@ -1,0 +1,2 @@
+class EntityDoesNotExistError(Exception):
+    pass
