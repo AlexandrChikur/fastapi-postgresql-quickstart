@@ -1,1 +1,0 @@
--- Here should be initial sql script
